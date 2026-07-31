@@ -39,6 +39,8 @@ The system allows users to execute SQL queries, measure execution time, analyze 
 ## Project Structure
 ## Screenshots
 
+## Screenshots
+
 ### Home Page
 ![Home Page](screenshots/home.png)
 
