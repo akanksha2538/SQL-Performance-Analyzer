@@ -37,3 +37,19 @@ The system allows users to execute SQL queries, measure execution time, analyze 
 - Matplotlib
 
 ## Project Structure
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Query History
+![Query History](screenshots/history.png)
+
+### Query Optimization
+![Query Optimization](screenshots/optimization.png)
+
+### Performance Comparison
+![Performance Comparison](screenshots/comparison.png)
