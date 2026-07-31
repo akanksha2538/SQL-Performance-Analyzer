@@ -1,0 +1,5 @@
+DB_HOST = "localhost"
+DB_NAME = "performance_analyzer_db"
+DB_USER = "postgres"
+DB_PASSWORD = "akanksha@123"
+DB_PORT = "5432"
